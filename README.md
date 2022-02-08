@@ -1,1 +1,1 @@
-# Heart-Prediction-using-Decision-Tree-and-Random-Forest
+# Telecom-Churn-using-Decision-Tree-and-Random-Forest
